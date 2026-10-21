@@ -117,12 +117,15 @@ On Sunday evening, Thomas drops off a borrowed tile cutter at Lars's doorstep. D
 
 ### 3.1 Storyboard 1: Tool Discovery and Reservation Request (Sofia's Workflow)
 
+![Storyboard 1](/media/storyboard1.png)
 Sofia stands in her apartment looking at a worn wooden dining table, holding a sheet of manual sandpaper and realizing hand-sanding will take days. She opens the Toolshared web app on her laptop and types "Orbital Sander" into the main search bar. The screen displays category results filtered by "Housing Co-Op Area A" and "Available This Weekend," highlighting Lars's Bosch Orbital Sander with a green Available tag. Sofia clicks the card to review tool photos, owner lending rules, and safety guidance ("Includes dust collector"). Tapping the calendar picker, she selects Saturday and Sunday, adds a short note ("Refinishing dining table"), and clicks "Submit Borrowing Request." A green banner confirms "Request Sent to Lars! Pending Approval," letting her know her reservation is in motion.
 
 ### 3.2 Storyboard 2: Request Review, Approval, and Pickup Setup (Lars's Workflow)
 
+![Storyboard 2](/media/storyboard2.png)
 While working at his desk, Lars receives a notification on his phone: "New Request: Sofia wants to borrow your Bosch Sander." Tapping the alert opens the Request Review screen, where he checks Sofia's profile, project note, and requested dates. Lars clicks "Approve Request," picks his preferred pickup window ("Saturday 09:00 - 10:00 AM"), and adds a note explaining where the extra accessories are stored. Toolshared updates the tool status to Reserved and generates a pickup pass with contact details. Lars packs the sander and sandpaper box into its carry case near his front door, while Sofia receives a push notification confirming her pickup for Saturday at 09:00 AM at Unit 4B.
 
 ### 3.3 Storyboard 3: Hand-Off, Condition Check-In, and Return (Accountability Workflow)
 
+![Storyboard 3](/media/storyboard3.png)
 On Saturday morning, Sofia arrives at Lars's doorstep, where Lars greets her and hands over the sander carry case. Sofia opens Toolshared on her phone, taps "Confirm Pickup," and checks off "Tool & Accessories Received in Good Condition." Over the weekend, she sands her dining table in her workspace. At 4:30 PM on Sunday, her phone alerts her: "Reminder: Return Bosch Sander to Lars by 6:00 PM today." Sofia wipes down the sander, packs it into its case, and returns it to Lars at 5:30 PM. Lars taps "Confirm Tool Returned" on his phone, and Toolshared updates the sander back to Available in the community catalog, completing the loan cycle.
